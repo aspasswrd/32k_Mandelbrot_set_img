@@ -1,0 +1,2 @@
+# 32k_Mandelbrot_set_img
+32k_Mandelbrot_set_img
