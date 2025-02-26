@@ -1,2 +1,2 @@
-# 32k_Mandelbrot_set_img
-32k_Mandelbrot_set_img
+# 32k Mandelbrot set image
+Easy programm on OpenMP to calculate Mandelbrot set.
